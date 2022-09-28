@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+}
+.header{
+    width: 80%;
+    height: 100px;
+    background-color: darkcyan;
+    text-align: center;
+    color: white;
+    float: left;
+    font-size: 30px;
+}
+.menu{
+    width: 20%;
+    height: 100px;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    float: right;
+}
+.nav{
+    width: 100%;
+    height: 200px;
+    background-color: darkgreen;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    width: 20%;
+    height: 400px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    float: left;
+}
+.right{
+    width: 80%;
+    overflow: hidden;
+}
+.content_1{
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    background-color: brown;
+    color: white;
+}
+.content_2{
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    background-color: cyan;
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.left-content{
+    width: 20%;
+    height: 400px;
+    background-color: darkmagenta;
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+.middle-content{
+    width: 60%;
+    background-color: darkgoldenrod;
+    float: left;
+    height: 400px;
+}
+.right-content{
+    width: 20%;
+    background-color: darkslategray;
+    float: left;
+    height: 400px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+.top{
+    height: 30%;
+    background-color: darkgray;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+.center{
+    height: 40%;
+    background-color: chartreuse;
+    overflow: hidden;
+}
+.bottom{
+    height: 30%;
+    background-color: navy;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+.center_left{
+    height: 100%;
+    width: 50%;
+    background-color: darkred;
+    float: left;
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+}
+.center_right{
+    height: 100%;
+    width: 50%;
+    background-color: indianred;
+    float: right;
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+}
+footer{
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    height: 60px;
+}
